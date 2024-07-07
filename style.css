@@ -130,6 +130,7 @@ body{
 .submit{
     border-radius: 100vw;
     width: 100%;
+    padding : 1rem;
 }
 
 .circle{
