@@ -127,11 +127,6 @@ body{
     flex-wrap: wrap;
    /*  padding: 1rem;*/
 }
-.submit{
-    border-radius: 100vw;
-    width: 100%;
-    padding : 1rem;
-}
 
 .circle{
     display: block;
@@ -162,6 +157,10 @@ input[type="radio"]:checked + .circle{
     border: transparent;
     text-transform: uppercase;
     letter-spacing: 1px;
+    padding: 0.5rem;
+
+    border-radius: 100vw;
+    width: 100%;
 }
 
 .submit:hover{
